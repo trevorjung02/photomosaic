@@ -1,5 +1,5 @@
 # Photomosaic Generator
-This is a photomosaic generator that takes a photo and makes a mosaic out of it from other photos. Best used with many small photos (less than 500 x 500) as mosaic material. 
+This is a photomosaic generator that takes a photo and makes a mosaic out of it from other photos. Best used with many small photos (less than 500 x 500) as mosaic material. Use the images in MosaicResources.zip if needed.
 
 Instructions: 
 Download the .class file\
